@@ -1,9 +1,3 @@
----
-coverY: 0
----
-
-# test
-
 * 👋 Hi, I’m @imanghotbi-python
 * 👀 I’m interested in ...
 * 🌱 I’m currently learning ...
